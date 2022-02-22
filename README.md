@@ -2,15 +2,15 @@
 Individual Assginments for [UofT CSC317: Computer Graphics](https://github.com/alecjacobson/computer-graphics-csc317). Implemented by C++.
 
 ## [Assignment 1: Raster Images](https://github.com/alecjacobson/computer-graphics-raster-images) 
-### [Implementation](https://github.com/Zoe0123/computer-graphics-raster-images) Grade: 90/100
+### [Implementation](https://github.com/Zoe0123/computer-graphics-raster-images) (Grade: 90/100)
 Image manipulations including reflections, rotations, shifts, mosaicing and demosaicing, rgb/hsv conversions, desaturation, and superimposing. 
 
 ## [Assignment 2: Ray Casting](https://github.com/alecjacobson/computer-graphics-ray-casting) 
-### [Implementation](https://github.com/Zoe0123/computer-graphics-ray-casting) Grade: 100/100
+### [Implementation](https://github.com/Zoe0123/computer-graphics-ray-casting) (Grade: 100/100)
 Cast rays into a scene to render shapes including spheres, planes, triangles, and Bunny.
 
 ## [Assignment 3: Ray Tracer](https://github.com/alecjacobson/computer-graphics-ray-tracing) 
-### [Implementation](https://github.com/Zoe0123/computer-graphics-ray-tracing) Grade: 95/100
+### [Implementation](https://github.com/Zoe0123/computer-graphics-ray-tracing) (Grade: 95/100)
 Ray tracing rendering engine that simulates the interation between the ray, and the objects and light sources. Implemented the Blinn-Phong shading model, shadow, and Mirror Reflection.
 
 ## [Assignment 4: Bounding Volume Hierarchy](https://github.com/alecjacobson/computer-graphics-bounding-volume-hierarchy)
