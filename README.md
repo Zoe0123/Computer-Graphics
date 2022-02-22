@@ -1,5 +1,5 @@
 # Computer-Graphics
-Individual Assginments for [UofT CSC317: Computer Graphics](https://github.com/alecjacobson/computer-graphics-raster-images)
+Individual Assginments for [UofT CSC317: Computer Graphics](https://github.com/alecjacobson/computer-graphics-raster-images). Implemented by C++.
 
 ## [Assignment 1: Raster Images](https://github.com/alecjacobson/computer-graphics-raster-images) 
 ### [Implementation]()
