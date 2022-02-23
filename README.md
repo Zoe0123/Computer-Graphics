@@ -9,7 +9,7 @@ Image manipulations including reflections, rotations, shifts, mosaicing and demo
 ### [Implementation](https://github.com/Zoe0123/computer-graphics-ray-casting) 
 Cast rays into a scene to render shapes including spheres, planes, triangles, and Bunny.
 
-## [Assignment 3: Ray Tracer](https://github.com/alecjacobson/computer-graphics-ray-tracing) 
+## [Assignment 3: Ray Tracing](https://github.com/alecjacobson/computer-graphics-ray-tracing) 
 ### [Implementation](https://github.com/Zoe0123/computer-graphics-ray-tracing) 
 Ray tracing rendering engine that simulates the interation between the ray, and the objects and light sources. Implemented the Blinn-Phong shading model, shadow, and Mirror Reflection.
 
