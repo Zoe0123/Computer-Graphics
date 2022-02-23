@@ -21,4 +21,4 @@ Implemented an object partitioning scheme (Axis-Aligned Bounding-Box Tree (AABB 
 ### [Implementation]()
 Implemented texture mapping from a 3D surface to 2D when the surface is not flat. Performed Catmull-Clark subdivision to increase the resolution.
 
-### Ongoing course and assginments. Implementation inluding other assignments will be released later.
+### Ongoing course and assginments. Implementation including other assignments will be released later.
