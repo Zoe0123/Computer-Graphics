@@ -21,4 +21,12 @@ Implemented an object partitioning scheme (Axis-Aligned Bounding-Box Tree (AABB 
 ### [Implementation]()
 Implemented texture mapping from a 3D surface to 2D when the surface is not flat. Performed Catmull-Clark subdivision to increase the resolution.
 
+### [6. Shader Pipeline](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
+### [Implementation]()
+Implemented animated models of the moon circling the earth including upscaling the surface resolution, Blinn-Phong shading, and Perlin noise generators.
+
+### [7. Kinematics](https://github.com/alecjacobson/computer-graphics-kinematics)
+### [Implementation]()
+Implemented animating shapes rigged to an internal skeleton.
+
 ### Ongoing course and assginments. Implementation including other assignments will be released later.
