@@ -29,4 +29,6 @@ Implemented animated models of the moon circling the earth including upscaling t
 ### [Implementation]()
 Implemented animating shapes rigged to an internal skeleton.
 
-### Ongoing course and assginments. Implementation including other assignments will be released later.
+## [Assignment 8: Mass Spring Systems](https://github.com/alecjacobson/computer-graphics-mass-spring-systems)
+### [Implementation]()
+Animating a deformable shape by treating it as a network of point masses and springs. Improved efficiency using Eigen's SparseMatrix class.
