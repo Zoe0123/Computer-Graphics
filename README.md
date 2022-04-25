@@ -18,17 +18,17 @@ Ray tracing rendering engine that simulates the interation between the ray, and 
 Implemented an object partitioning scheme (Axis-Aligned Bounding-Box Tree (AABB Tree)) to improve the algorithmic performance of ray tracing.
 
 ## [Assignment 5: Meshes](https://github.com/alecjacobson/computer-graphics-meshes) 
-### [Implementation]()
+### [Implementation](https://github.com/Zoe0123/Meshes)
 Implemented texture mapping from a 3D surface to 2D when the surface is not flat. Performed Catmull-Clark subdivision to increase the resolution.
 
 ## [Assignment 6: Shader Pipeline](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
-### [Implementation]()
+### [Implementation](https://github.com/Zoe0123/Shader-Pipeline)
 Implemented animated models of the moon circling the earth including upscaling the surface resolution, Blinn-Phong shading, and Perlin noise generators.
 
 ## [Assignment 7: Kinematics](https://github.com/alecjacobson/computer-graphics-kinematics)
-### [Implementation]()
+### [Implementation](https://github.com/Zoe0123/Kinematics)
 Implemented animating shapes rigged to an internal skeleton.
 
 ## [Assignment 8: Mass Spring Systems](https://github.com/alecjacobson/computer-graphics-mass-spring-systems)
-### [Implementation]()
+### [Implementation](https://github.com/Zoe0123/Mass-Spring-Systems)
 Animating a deformable shape by treating it as a network of point masses and springs. Improved efficiency using Eigen's SparseMatrix class.
